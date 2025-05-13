@@ -220,9 +220,6 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  workshops:
-    output: true
-    permalink: /workshops/:path/  
   portfolio:
     output: true
     permalink: /:collection/:path/
