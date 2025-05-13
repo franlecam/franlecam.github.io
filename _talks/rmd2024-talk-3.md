@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/rmd-2024-talk-3
 venue: "Cursos de la Bolsa de Comercio de Santa Fe"
-date: 2024-30-05
+date: 2024-05-30
 location: "Santa Fe, Argentina"
 ---
 
