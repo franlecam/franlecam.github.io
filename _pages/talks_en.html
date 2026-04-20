@@ -1,0 +1,17 @@
+---
+layout: archive
+title: "Talks and presentations"
+permalink: /en/talks/
+author_profile: true
+lang: en
+---
+
+{% if site.talkmap_link == true %}
+<p style="text-decoration:underline;"><a href="/en/talkmap.html">See a map of all the places I've given a talk!</a></p>
+{% endif %}
+
+{% assign talks = site.talks | where: "lang", "en" %}
+
+{% for post in talks reversed %}
+  {% include archive-single-talk.html %}
+{% endfor %}

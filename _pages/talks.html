@@ -1,16 +1,17 @@
 ---
 layout: archive
-title: "Talks and presentations"
+title: "Charlas y presentaciones"
 permalink: /talks/
 author_profile: true
+lang: es
 ---
 
 {% if site.talkmap_link == true %}
-
-<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
-
+<p style="text-decoration:underline;"><a href="/talkmap.html">Ver un mapa de todas las charlas</a></p>
 {% endif %}
 
-{% for post in site.talks reversed %}
+{% assign talks = site.talks | where: "lang", "es" %}
+
+{% for post in talks reversed %}
   {% include archive-single-talk.html %}
 {% endfor %}

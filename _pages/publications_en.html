@@ -1,18 +1,18 @@
 ---
 layout: archive
-title: "Publicaciones"
-permalink: /publications/
+title: "Publications"
+permalink: /en/publications/
 author_profile: true
-lang: es
+lang: en
 ---
 
 {% if site.author.googlescholar %}
-  <div class="wordwrap">También podés encontrar mis artículos en <a href="{{site.author.googlescholar}}">mi perfil de Google Scholar</a>.</div>
+  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
 {% include base_path %}
 
-{% assign pubs = site.publications | where: "lang", "es" %}
+{% assign pubs = site.publications | where: "lang", "en" %}
 
 {% if site.publication_category %}
   {% for category in site.publication_category  %}
