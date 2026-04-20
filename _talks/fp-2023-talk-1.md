@@ -1,7 +1,8 @@
 ---
 title: "Finanzas personales frente a un contexto inflacionario"
+lang: es
 collection: talks
-type: "Talk"
+type: "Charla"
 permalink: /talks/fp-2023-talk-1
 venue: "Cursos de la Bolsa de Comercio de Santa Fe"
 date: 2023-08-23
