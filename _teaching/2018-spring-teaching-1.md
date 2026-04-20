@@ -1,11 +1,12 @@
 ---
-title: "Teaching Assistantship — Introduction to Economics"
+title: "Adscripción a la Docencia — Introducción a la Economía"
 collection: teaching
-type: "Undergraduate course"
+type: "Grado"
+lang: es
 permalink: /teaching/IntroEcs-2018-assistantship
 venue: "Universidad Nacional del Litoral"
 date: 2018-01-01
 location: "Santa Fe, Argentina"
 ---
 
-Collaborated passively with the course instructor, taking charge of selected lectures and providing assistance with assignments and student inquiries.
+Colaboración con la cátedra mediante el dictado de clases seleccionadas y asistencia en la resolución de trabajos prácticos y consultas de los alumnos.
