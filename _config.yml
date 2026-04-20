@@ -31,7 +31,7 @@ author:
   employer         : "Bolsa de Comercio de Santa Fe"
   uri              : "https://bcsf.com.ar/ces/quienes-somos.php"
 # Employer 2: Consultora (usaremos el campo 'employer2' y 'uri2')
-  employer2        : "Vector Regional"
+  employer2        : "Vector Regional Consultores"
   uri2             : "https://vectorregional.github.io/website/"
   email            : "franleiva95@gmial.com" 
 
