@@ -26,6 +26,7 @@ en: &DEFAULT_EN
   powered_by                 : "Powered by"
   website_label              : "Website"
   email_label                : "Email"
+  publications_label         : "Publications" # <-- Agrega esta línea
   recent_posts               : "Recent Posts"
   undefined_wpm              : "Undefined parameter words_per_minute at _config.yml"
   comment_form_info          : "Your email address will not be published. Required fields are marked"
@@ -73,8 +74,9 @@ es: &DEFAULT_ES
   feed_label                 : "Feed"
   powered_by                 : "Creado por"
   website_label              : "Sitio web"
-  email_label                : "Correo"
-  recent_posts               : "Entradas recientes"
+  email_label                : "Email"
+  publications_label         : "Publicaciones" # <-- Agrega esta línea
+  recent_posts               : "Recent Posts"
   undefined_wpm              : "Parámetro words_per_minute (palabras por minuto) no definido en _config.yml"
   comment_form_info          : "No se publicará tu correo electrónico. Véanse marcados los campos obligatorios"
   comment_form_comment_label : "Comentario"
