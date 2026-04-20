@@ -52,7 +52,7 @@ Artículos relacionados a economía de interés.
 
 ---
 
-## 🧠 Papers académicos (no económicos)
+## Papers académicos (no económicos)
 
 *Last but not least*, artículos que me interesaron.
 
