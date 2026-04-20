@@ -1,6 +1,8 @@
 ---
-title: "Home"
+layout: archive
 permalink: /en/
-lang: en
+sidebar:
+  nav: "main_en"
 ---
-Welcome.
+
+In construction...

@@ -36,3 +36,23 @@ main:
     
   # - title: "Guide"
   #  url: /markdown/
+
+  # Menú en Español
+
+# Menú en Inglés (Agrega esto abajo)
+main_en:
+  
+  - title: "Publications"
+    url: /en/publications/
+  
+  - title: "Talks"
+    url: /en/talks/
+  
+  - title: "Teaching"
+    url: /en/teaching/
+  
+  - title: "Readings"
+    url: /en/lecturas/
+  
+  - title: "CV"
+    url: /files/cv.pdf
