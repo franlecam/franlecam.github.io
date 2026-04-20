@@ -4,9 +4,9 @@ permalink: /readings/
 lang: es
 ---
 
-## 📚 Libros
+## Libros
 
-### 📖 En curso
+### En curso
 
 - *Esto no es economía* — N. Ajzenman (2021)  
 - *Principios de economía* — F. Sturzenegger (2019)  
@@ -14,7 +14,7 @@ lang: es
 - *La diplomacia* — Henry Kissinger (1994)  
 - *Elden Ring Vol. 7* — Nikiichi Tobita (2023)  
 
-### ✔️ Terminados (2026)
+### Terminados (2026)
 
 - *La odisea* — Homero (¿750-650 a.C?)
 - *La ilíada* — Homero (¿750-650 a.C?)
@@ -26,7 +26,7 @@ lang: es
 - *El caballero errante* — George R. R. Martin (1998)
 - *Nombres que cruzan océanos* - M. Brouwer de Koning (2025)
 
-## 📰 Lecturas recientes
+## Lecturas recientes
 
 Acá incluyo lecturas de la diaria.
 
@@ -37,7 +37,7 @@ Acá incluyo lecturas de la diaria.
 
 ---
 
-## 🧠 Papers académicos (económicos)
+## Papers académicos (económicos)
 
 Artículos relacionados a economía de interés.
 
