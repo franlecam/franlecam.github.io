@@ -31,9 +31,9 @@ lang: es
 Acá incluyo lecturas de la diaria.
 
 - **We’re Training Scientists for a World That No Longer Exists**  
-  JP Flores – Science Politics  
-  [link](https://sciencepolitics.org/2026/03/18/were-training-scientists-for-a-world-that-no-longer-exists/)
-  La importancia (¿exigencia hoy en día?) de mejorar la comunicación.
+  Flores J. P. – Science Politics (2026)
+  [link](https://sciencepolitics.org/2026/03/18/were-training-scientists-for-a-world-that-no-longer-exists/) | La importancia (¿exigencia hoy en día?) de mejorar la comunicación.
+  
 
 ---
 
@@ -41,9 +41,14 @@ Acá incluyo lecturas de la diaria.
 
 Artículos relacionados a economía de interés.
 
-- **We’re Training Scientists for a World That No Longer Exists**  
-  JP Flores – Science Politics  
-  [link](https://sciencepolitics.org/2026/03/18/were-training-scientists-for-a-world-that-no-longer-exists/)
+- **The commodity terms of trade and their strategic implications for development**  
+  Ocampo, J. A. & Parra M. A. (2004)
+  [https://ideas.repec.org/p/wpa/wuwpit/0403001.html](https://sciencepolitics.org/2026/03/18/were-training-scientists-for-a-world-that-no-longer-exists/)
+
+- **Trends in real commodity prices. How real is real?**  
+  Fernandez, V. (2012)
+  [https://ideas.repec.org/p/wpa/wuwpit/0403001.html](https://sciencepolitics.org/2026/03/18/were-training-scientists-for-a-world-that-no-longer-exists/)
+  
 
 ---
 
@@ -53,5 +58,5 @@ Artículos relacionados a economía de interés.
 
 - **Renaissance minds in 21st century science**  
   Itai Yanai & Martin Lercher (2026)  
-  [link](https://link.springer.com/article/10.1186/s13059-020-01985-6)  
-  Acerca del dilema de los expertos (*Expert’s Dilemma*).
+  [link](https://link.springer.com/article/10.1186/s13059-020-01985-6) | Acerca del dilema de los expertos (*Expert’s Dilemma*).
+  
