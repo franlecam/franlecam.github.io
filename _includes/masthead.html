@@ -11,7 +11,14 @@
             <a href="{{ base_path }}/">{{ site.title }}</a>
           </li>
 
-          {% for link in site.data.navigation.main %}
+          {% comment %} Definir qué menú usar según la URL {% endcomment %}
+          {% if page.url contains '/en/' %}
+            {% assign menu = site.data.navigation.main_en %}
+          {% else %}
+            {% assign menu = site.data.navigation.main %}
+          {% endif %}
+
+          {% for link in menu %}
             {% if link.url contains 'http' %}
               {% assign domain = '' %}
             {% else %}
@@ -22,12 +29,10 @@
             </li>
           {% endfor %}
 
-          <!-- 🔽 BOTÓN DE IDIOMA -->
           <li class="masthead__menu-item persist">
             <a href="/en/">EN</a> | <a href="/">ES</a>
           </li>
 
-          <!-- 🔽 TEMA (queda igual) -->
           <li id="theme-toggle" class="masthead__menu-item persist tail">
             <a>
               <i id="theme-icon" class="fa-solid fa-sun" aria-hidden="true" title="toggle theme"></i>
