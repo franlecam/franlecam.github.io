@@ -1,7 +1,8 @@
 ---
 title: "Finanzas personales"
 collection: talks
-type: "Talk"
+type: "Charla"
+lang: es
 permalink: /talks/fp-2024-talk-2
 venue: "Cursos de la Bolsa de Comercio de Santa Fe"
 date: 2024-09-05

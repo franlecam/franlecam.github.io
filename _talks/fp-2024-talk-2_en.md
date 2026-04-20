@@ -1,14 +1,14 @@
 ---
-title: "Finanzas personales"
+title: "Personal Finance in an Inflationary Context"
 collection: talks
-type: "Charla"
-lang: es
-permalink: /talks/fp-2024-talk-2
-venue: "Cursos de la Bolsa de Comercio de Santa Fe"
+type: "Talk"
+lang: en
+permalink: /en/talks/fp-2023-talk-1
+venue: "Santa Fe Chamber of Commerce Courses"
 date: 2024-09-05
 location: "Santa Fe, Argentina"
 ---
 
-Dos encuentros (05/09/24 y 19/09/24) en los que se presentó teoría y práctica de finanzas personales.
+Two sessions (05/09/24 y 19/09/24) covering both theory and practical applications of personal finance.
 
-[Agregar imagen]
+[Add image]
