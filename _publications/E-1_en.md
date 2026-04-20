@@ -1,5 +1,5 @@
 ---
-title: Turning Point Detection using a Parametric Method: An Application of a Markov Switching Model to Santa Fe's Business Cycle"
+title: "Turning Point Detection using a Parametric Method: An Application of a Markov Switching Model to Santa Fe's Business Cycle"
 
 collection: publications
 
