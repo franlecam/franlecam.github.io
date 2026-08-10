@@ -10,6 +10,8 @@ navigation: "main_en"
 #   nav: "main_en"
 ---
 
+<div style="text-align: justify;">
+
 Hi there!
 
 My name is Francisco Leiva, born and raised under the warmth of the provincial capital of Santa Fe. I'm characterized by an unending desire to understand the world around me (and perhaps other kinds of worlds as well). Below is a bit about my formal background.
@@ -23,3 +25,5 @@ I have some experience as a lecturer at various academic institutions in undergr
 Since I sometimes trick myself into thinking time is infinite, together with colleagues from my alma mater I run a [consulting](https://www.vectorregional.com/) firm focused on outreach and tailor-made studies, for both the private and public sectors.
 
 If you'd like to learn more about my background, feel free to check out my [full CV](https://franlecam.github.io/files/cv.pdf) or reach out via [LinkedIn](https://www.linkedin.com/in/leiva-francisco/).
+
+</div>

@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+<div style="text-align: justify;">
+
 Buenas!
 
 Mi nombre es Francisco Leiva, nacido y criado por el calor de la capital provincial santafesina. Me caracterizo por un incansable deseo de comprender el mundo que me rodea (y quizá otros tipos de mundos). A continuación, va un poco de mi recorrido formal.
@@ -20,3 +22,5 @@ Tengo cierto recorrido como docente en distintas casas de estudio en materia de 
 Como a veces me engaño pensando que el tiempo es infinito, junto con colegas de mi alma mater tenemos [una consultora](https://www.vectorregional.com/) abocada a la divulgación y estudios a medida, tanto hacia el sector privado como el público.
 
 Si te interesa conocer más sobre mi trayectoria, podés consultar mi [CV completo](https://franlecam.github.io/files/cv.pdf) o contactarme por [LinkedIn](https://www.linkedin.com/in/leiva-francisco/).
+
+</div>
