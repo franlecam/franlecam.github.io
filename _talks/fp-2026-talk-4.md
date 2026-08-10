@@ -5,7 +5,7 @@ type: "Charla"
 lang: es
 permalink: /talks/fp-2026-talk-4
 venue: "Cursos de la Bolsa de Comercio de Santa Fe"
-date: 2026-20-05
+date: 2026-05-20
 location: "Santa Fe, Argentina"
 ---
 

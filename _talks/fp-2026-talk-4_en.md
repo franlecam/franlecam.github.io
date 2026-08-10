@@ -5,7 +5,7 @@ type: "Talk"
 lang: en
 permalink: /en/talks/fp-2026-talk-4
 venue: "Santa Fe Chamber of Commerce Courses"
-date: 2026-20-05
+date: 2026-05-20
 location: "Santa Fe, Argentina"
 ---
 

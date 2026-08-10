@@ -8,8 +8,8 @@ lang: es
 
 ### En curso
 
-- *Esto no es economía* — N. Ajzenman (2021)  
-- *Principios de economía* — F. Sturzenegger (2019)  
+- *Outlander 2* — Diana Gabaldon (1992)  
+- *Advanced Macroeconomics* — David Romer (1996)  
 - *Europa y la gente sin historia* — Eric R. Wolf (1982)  
 - *La diplomacia* — Henry Kissinger (1994)  
 <!-- - *Elden Ring Vol. 7* — Nikiichi Tobita (2023)   -->
@@ -24,6 +24,8 @@ lang: es
 - *El Reino* - El Gato y La Caja (2025)  
 - *Elden Ring Vol. 4–6* — Nikiichi Tobita (2022–2023)  
 - *El caballero errante* — George R. R. Martin (1998)
+- *Esto no es economía* — N. Ajzenman (2021)  
+- *Principios de economía* — F. Sturzenegger (2019)  
 <!-- - *Nombres que cruzan océanos* - M. Brouwer de Koning (2025) -->
 
 ## Lecturas recientes
