@@ -20,6 +20,6 @@ Regarding my main occupation, since 2023 I've worked as a researcher/analyst at 
 
 I have some experience as a lecturer at various academic institutions in undergraduate courses, as well as a trainer on topics related to personal finance, among others.
 
-Since I sometimes trick myself into thinking time is infinite, together with colleagues from my alma mater I run a consulting firm focused on outreach and tailor-made studies, for both the private and public sectors.
+Since I sometimes trick myself into thinking time is infinite, together with colleagues from my alma mater I run a [consulting](https://www.vectorregional.com/) firm focused on outreach and tailor-made studies, for both the private and public sectors.
 
 If you'd like to learn more about my background, feel free to check out my [full CV](https://franlecam.github.io/files/cv.pdf) or reach out via [LinkedIn](https://www.linkedin.com/in/leiva-francisco/).

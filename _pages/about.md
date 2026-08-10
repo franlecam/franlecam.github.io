@@ -15,8 +15,8 @@ Una vez que finalicé mi educación inicial en el Colegio de la Inmaculada Conce
 
 Respecto de mi ocupación principal, desde 2023 me desempeño como investigador/analista del Centro de Estudios y Servicios (Bolsa de Comercio de Santa Fe). Desde el CES utilizamos herramientas de ciclos económicos y series de tiempo para comprender y hacer una correcta divulgación de lo que sucede en nuestras inmediaciones, así como a nivel nacional.
 
-Tengo cierto recorrido como docente en distintas casas de estudio en materia de grado, así como capacitador de temas vinculados a finanzas personales, entre otros.
+Tengo cierto recorrido como docente en distintas casas de estudio en materia de grado, así como capacitador en temas vinculados a finanzas personales, entre otros.
 
-Como a veces me engaño pensando que el tiempo es infinito, junto con colegas de mi alma mater tenemos una consultora abocada a la divulgación y estudios a medida, tanto hacia el sector privado como el público.
+Como a veces me engaño pensando que el tiempo es infinito, junto con colegas de mi alma mater tenemos [una consultora](https://www.vectorregional.com/) abocada a la divulgación y estudios a medida, tanto hacia el sector privado como el público.
 
 Si te interesa conocer más sobre mi trayectoria, podés consultar mi [CV completo](https://franlecam.github.io/files/cv.pdf) o contactarme por [LinkedIn](https://www.linkedin.com/in/leiva-francisco/).
