@@ -25,18 +25,18 @@ lang: es
 - *Elden Ring Vol. 4–6* — Nikiichi Tobita (2022–2023)  
 - *El caballero errante* — George R. R. Martin (1998)
 - *Esto no es economía* — N. Ajzenman (2021)  
-- *Principios de economía* — F. Sturzenegger (2019)  
+- *Principios de economía* — F. Sturzenegger (2019) 
+- *El mago del Kremlin* — G. da Empoli (2022)  
 <!-- - *Nombres que cruzan océanos* - M. Brouwer de Koning (2025) -->
 
 ## Lecturas recientes
 
-Acá incluyo lecturas de la diaria.
+Acá incluyo lecturas de la diaria (las que recuerde).
 
 - *We’re Training Scientists for a World That No Longer Exists*
   Flores J. P. – Science Politics (2026)
   [link](https://sciencepolitics.org/2026/03/18/were-training-scientists-for-a-world-that-no-longer-exists/) | La importancia (¿exigencia hoy en día?) de mejorar la comunicación.
   
-
 ---
 
 ## Papers académicos (económicos)
