@@ -10,7 +10,7 @@ navigation: "main_en"
 #   nav: "main_en"
 ---
 
-<div style="text-align: justify;">
+<div style="text-align: justify;" markdown="1">
 
 Hi there!
 
