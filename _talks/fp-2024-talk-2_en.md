@@ -1,5 +1,5 @@
 ---
-title: "Personal Finance in an Inflationary Context"
+title: "Personal Finance"
 collection: talks
 type: "Talk"
 lang: en

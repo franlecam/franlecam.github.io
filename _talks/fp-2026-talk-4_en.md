@@ -1,5 +1,5 @@
 ---
-title: "Personal Finance in an Inflationary Context"
+title: "Personal finance: tools to understand and improve your spending and saving decisions"
 collection: talks
 type: "Talk"
 lang: en

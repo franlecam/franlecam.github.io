@@ -52,7 +52,7 @@ main_en:
     url: /en/teaching/
   
   - title: "Readings"
-    url: /en/lecturas/
+    url: /readings/ # mismo menú que en español
   
   - title: "CV"
     url: /files/cv.pdf

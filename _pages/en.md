@@ -16,7 +16,7 @@ My name is Francisco Leiva, born and raised under the warmth of the provincial c
 
 After finishing my early education at Colegio de la Inmaculada Concepción (2013), I began my studies as an economist at the Universidad Nacional del Litoral. Overlapping with the final stretch of my degree (2021), I pursued postgraduate studies related to programming applied to the social sciences, as well as other topics of interest. Right after that (2024), I began the Master's in Applied Economics (Universidad de Buenos Aires), and I'm currently awaiting my thesis defense.
 
-Regarding my main occupation, since 2023 I've worked as a researcher/analyst at the Center for Studies and Services (Centro de Estudios y Servicios, CES) at the Santa Fe Commodities Exchange (Bolsa de Comercio de Santa Fe). At the CES, we use business cycle and time series tools to understand and properly communicate what's happening around us, both locally and nationally.
+Regarding my main occupation, since 2023 I've worked as a researcher/analyst at the Center for Studies and Services (Centro de Estudios y Servicios, [CES](https://bcsf.com.ar/ces/quienes-somos.php)) at the Santa Fe Commodities Exchange (Bolsa de Comercio de Santa Fe). At the CES, we use business cycle and time series tools to understand and properly communicate what's happening around us, both locally and nationally.
 
 I have some experience as a lecturer at various academic institutions in undergraduate courses, as well as a trainer on topics related to personal finance, among others.
 

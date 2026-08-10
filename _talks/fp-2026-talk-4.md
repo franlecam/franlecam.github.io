@@ -1,5 +1,5 @@
 ---
-title: "Finanzas personales"
+title: "Finanzas personales: herramientas para entender y mejorar tus decisiones de consumo y ahorro"
 collection: talks
 type: "Charla"
 lang: es
